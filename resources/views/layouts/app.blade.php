@@ -13,8 +13,7 @@
 </head>
 
 <body>
-  dd
-
+  @include('partials.header')
 </body>
 
 </html>

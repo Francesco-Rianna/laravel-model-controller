@@ -1,1 +1,11 @@
+@use './partials/header';
 @import '~bootstrap/scss/bootstrap';
+
+body {
+    background: cadetblue;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
