@@ -15,4 +15,9 @@ class PageController extends Controller
     // dd($movies);
     return view('home');
    }
+
+   public function film() {
+    return view('film'); 
+   }
 }
+
